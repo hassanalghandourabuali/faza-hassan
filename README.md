@@ -15,4 +15,3 @@
  
   ## This is the pucture description the site
  
-[Web site](https://hassanalghandourabuali.github.io/faza-hassan/)
